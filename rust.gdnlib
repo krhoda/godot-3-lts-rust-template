@@ -7,7 +7,7 @@ reloadable=true
 
 [entry]
 
-OSX.64="res://rust.dylib"
+OSX.64="res://rustlib/target/debug/librustlib.dylib"
 
 [dependencies]
 
